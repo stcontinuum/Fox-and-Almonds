@@ -1,4 +1,4 @@
 Fox-and-Almonds
 ===============
 
-Fox and Almonds provides a "Create-Your-Own-RPG" platform.
+Pen and Paper?  Try Fox and Almonds.
