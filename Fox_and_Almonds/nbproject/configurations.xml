@@ -4,6 +4,16 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Header Files"
                    projectFiles="true">
+      <itemPath>accessory.h</itemPath>
+      <itemPath>character.h</itemPath>
+      <itemPath>consumable.h</itemPath>
+      <itemPath>equipment.h</itemPath>
+      <itemPath>item.h</itemPath>
+      <itemPath>npc.h</itemPath>
+      <itemPath>pc.h</itemPath>
+      <itemPath>stringLL.h</itemPath>
+      <itemPath>test.h</itemPath>
+      <itemPath>weapon.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
                    displayName="Resource Files"
@@ -13,6 +23,8 @@
                    displayName="Source Files"
                    projectFiles="true">
       <itemPath>main.cpp</itemPath>
+      <itemPath>stringLL.cpp</itemPath>
+      <itemPath>test.cpp</itemPath>
     </logicalFolder>
     <logicalFolder name="TestFiles"
                    displayName="Test Files"
